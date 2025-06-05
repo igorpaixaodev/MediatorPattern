@@ -161,6 +161,8 @@ dotnet run
 
 - **MediatR Library**  
   Core inspiration from Jimmy Bogard's [MediatR](https://github.com/jbogard/MediatR) implementation
+- **André Baltieri (Balta)**  
+  For the knowledge shared in the "Dominando Mediator" course at balta.io
 
 - **.NET Community**  
   For Dependency Injection and async design best practices
